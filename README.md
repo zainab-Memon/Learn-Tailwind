@@ -6,5 +6,5 @@
 - The CLI is also available as a standalone executable if you want to use it without installing Node.js.
 ## Install Tailwind CSS
 - Install tailwindcss via npm, and create your tailwind.config.js file.\
-`npm install -D tailwindcss
-npx tailwindcss init`
+`npm install -D tailwindcss`
+`npx tailwindcss init`
