@@ -68,3 +68,5 @@ module.exports = {
 };
 ```
 - It will reflect that we want to use tailwind for whole content. 
+#### 6. Install Extention [Optional But Recommended] 
+- Install Tailwind CSS IntelliSense 
