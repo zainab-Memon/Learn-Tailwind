@@ -53,3 +53,5 @@ Use the Play CDN to try Tailwind right in the browser without any build step. Th
 }
 
 ```
+#### Initialize Tailwind 
+```   npx tailwindcss init  ```
