@@ -34,3 +34,4 @@ Use the Play CDN to try Tailwind right in the browser without any build step. Th
 - Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrate it with build tools like webpack, Rollup, Vite, and Parcel.
 #### Install Tailwind 
 ``` npm install -D tailwindcss postcss autoprefixer ```
+- Note: You need to install node.js else this command won't work.
