@@ -56,3 +56,15 @@ Use the Play CDN to try Tailwind right in the browser without any build step. Th
 #### 4. Initialize Tailwind 
 ```   npx tailwindcss init  ```
 - This will create tailwind.config.js file. 
+#### 5. Make These Changes Into tailwind.config.js File 
+```js 
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["*"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+```
+- It will reflect that we want to use tailwind for whole content. 
