@@ -77,3 +77,5 @@ module.exports = {
 ```
 #### 7. Install Extention [Optional But Recommended] 
 - Install Tailwind CSS IntelliSense 
+#### 8. Start your build process
+- Run your build process with ```npm run dev``` or whatever command is configured in your package.json file such as ``` npm run start```
