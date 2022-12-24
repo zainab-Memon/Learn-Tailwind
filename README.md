@@ -69,7 +69,7 @@ module.exports = {
 ```
 - It will reflect that we want to use tailwind for whole content. 
 #### 6. Add the Tailwind directives to your CSS
-- Create input.css file and add these into it. 
+- Create input.css file and add these into it and add this file into your html file. 
 ```css 
     @tailwind base;
     @tailwind components;
