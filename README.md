@@ -68,5 +68,12 @@ module.exports = {
 };
 ```
 - It will reflect that we want to use tailwind for whole content. 
-#### 6. Install Extention [Optional But Recommended] 
+#### 6. Add the Tailwind directives to your CSS
+- Create input.css file and add these into it. 
+```css 
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+```
+#### 7. Install Extention [Optional But Recommended] 
 - Install Tailwind CSS IntelliSense 
